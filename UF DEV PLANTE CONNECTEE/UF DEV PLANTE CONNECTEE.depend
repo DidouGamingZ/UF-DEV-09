@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551390106 source:c:\users\didou\desktop\cours\language c\uf dev plante connectee\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1551392672 source:c:\users\didou\desktop\cours\language c\uf dev plante connectee\code.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<windows.h>
+
